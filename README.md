@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando:Python,Php,Java,Mysql,CSS e CSS3.
+- 🌱 Estudando: Python, JavaScript, HTML e CSS.
 - 📫 Contate-me no email: contactisabela@gmail.com
 - 😄 Pronouns: ela/dela
 
