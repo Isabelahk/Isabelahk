@@ -1,32 +1,25 @@
-### Olá! Eu sou a Isabela Haubrick 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;I'm+Isabela+haubrick+:%29)](https://git.io/typing-svg)
 
-
-- 🌱 Estudando: Python, JavaScript, HTML e CSS.
-- 📫 Contate-me no email: contactisabela@gmail.com
-- 😄 Pronouns: ela/dela
-
-<div align="center"> 
-  <a href="https://github.com/Isabelahk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelahk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelahk&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Isabelahk&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=FFF&bg_color=0d1117" alt="Isabela Haubrick github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelahk&layout=compact&hide_border=true&title_color=FF00F6&text_color=fff&bg_color=0d1117" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Isabelahk&bg_color=9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+### Connect with me:
 
-##
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isabela-haubrick/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/isabelahk/)
 
-<div> 
-  <a href = "mailto:isabelahaubrick1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabela-haubrick-7b592a227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Isabelahk/Isabelahk/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### Main skills:
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF00F6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=FF00F6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=FF00F6)&nbsp;
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FF00F6)&nbsp;
+![JavaScript](https://shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=FF00F6) 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=footer"/>
